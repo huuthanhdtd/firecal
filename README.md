@@ -1,6 +1,6 @@
 # react-scheduler-firebase
 
-[**DEMO**](https://tim1023.github.io/react-scheduler-firebase/)
+[**DEMO**](https://huuthanhdtd.github.io/react-scheduler-firebase/)
 ![Dashboard](https://github.com/Tim1023/react-scheduler-firebase/blob/gh-pages/screenshot.jpeg)
 
 ## Features
